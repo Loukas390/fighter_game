@@ -1,6 +1,4 @@
 import pygame
-import david from david
-
 
 pygame.init()
 
