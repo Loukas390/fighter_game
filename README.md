@@ -11,9 +11,10 @@ Installation de Pygame:
 Version: 2.0.0
 
 Sources d'origine du code de Fighter_game:
-  https://github.com/russs123/brawler_tut
+https://github.com/russs123/brawler_tut
+
 Vidéo sur Youtube:
-  https://www.youtube.com/watch?v=s5bd9KMSSW4
+https://www.youtube.com/watch?v=s5bd9KMSSW4
 
 MIT License
 
