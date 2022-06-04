@@ -1,5 +1,6 @@
 # fighter_game
 Projet de fin d'année en Programmation
+
 Équipe composée de:
   - David 
   - Eunjun
